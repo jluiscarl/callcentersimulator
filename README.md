@@ -3,11 +3,13 @@ Simulador de un Call Center
 Documentación Simulador de un Call Center
 
 Sistema: Simulador de un Call Center
+
 Entrada: 
 •	Cantidad de Operadores (Integer)
 •	Cantidad de Supervisores (Integer)
 •	Cantidad de Directores (Integer)
 •	Cantidad de Llamadas (Integer)
+
 Salida:
 •	Mensajes por salida estándar que indican el comportamiento del simulador.
 
