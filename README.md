@@ -15,8 +15,6 @@ Salida:
 
 Solución: Implementación del algoritmo Productor-Consumidor. Adicionando la siguiente variante: Un monitor (Dispatcher)
 que se encargue de gestionar el consumo de llamadas por parte de los consumidores (Operadores, Supervisores y Directores).
-
-Diagrama de clases
  
 
 Repositorio: https://github.com/jluiscarl/callcentersimulator.git
